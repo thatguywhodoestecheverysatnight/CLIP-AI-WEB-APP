@@ -1,0 +1,10 @@
+{
+  "name": "CLIP-AI",
+  "short_name": "CLIP-AI",
+  "description": "Climate intelligence, locally.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#065f46",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
